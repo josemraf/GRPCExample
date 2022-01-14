@@ -13,7 +13,7 @@ message GetBookRequest {
 }
 
 message GetBookViaAuthor {
-  string Aut = 1;
+  string Auto = 1;
 }
 
 service BookService {
